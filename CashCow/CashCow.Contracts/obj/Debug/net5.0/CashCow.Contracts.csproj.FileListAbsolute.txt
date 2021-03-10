@@ -1,0 +1,5 @@
+C:\Users\17181BHIFChungKevin\Documents\Schule\4BHIF\PROO\CashCow\CashCow\CashCow.Contracts\bin\Debug\net5.0\CommonBase.dll
+C:\Users\17181BHIFChungKevin\Documents\Schule\4BHIF\PROO\CashCow\CashCow\CashCow.Contracts\obj\Debug\net5.0\CashCow.Contracts.csprojAssemblyReference.cache
+C:\Users\17181BHIFChungKevin\Documents\Schule\4BHIF\PROO\CashCow\CashCow\CashCow.Contracts\obj\Debug\net5.0\CashCow.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17181BHIFChungKevin\Documents\Schule\4BHIF\PROO\CashCow\CashCow\CashCow.Contracts\obj\Debug\net5.0\CashCow.Contracts.AssemblyInfoInputs.cache
+C:\Users\17181BHIFChungKevin\Documents\Schule\4BHIF\PROO\CashCow\CashCow\CashCow.Contracts\obj\Debug\net5.0\CashCow.Contracts.AssemblyInfo.cs
